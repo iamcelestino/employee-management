@@ -1,0 +1,15 @@
+{
+    "name": "dell/api",
+    "description": "product management",
+    "autoload": {
+        "psr-4": {
+            "api\\": "api/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Celestino Trosso"
+        }
+    ],
+    "require": {}
+}
